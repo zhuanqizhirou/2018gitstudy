@@ -3,3 +3,4 @@ tong 新增了分支dev，这里是dev，我要提交这一行。
 tong 继续修改b.txt，我要提交这一行。
 4,重复第2步。之前在dev上执行了git rebase -i master.这次试试去掉master.提交这一行。
 5.tonghuazhen b.txt。添加第5行。
+master 2.切换到master分支，第二行。
