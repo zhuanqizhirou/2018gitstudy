@@ -7,3 +7,4 @@ master 2.切换到master分支，第二行。
 master 2.切换到master分支，第二行。
 master userb 3.切换到master分支，第三行。
 dev userb 保留两次更改内容
+master userb git rebase -i master后，切换到master，git merge dev,就不会有任何冲突地合并了。
